@@ -1,4 +1,4 @@
 {
     "mongoURI": "mongodb+srv://asim:terminal@123@cluster0.8oyn6.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "baseUrl": ""
+    "baseUrl": "https://api-service-shortener.herokuapp.com/"
 }
